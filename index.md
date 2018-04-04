@@ -1,4 +1,5 @@
 ---
 layout: home
-title: 'Hello'
+title: Hello
 ---
+Body is required
